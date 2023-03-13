@@ -2,8 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98ABF7&center=true&vCenter=true&width=800&lines=Hello!;I'm+Vanessa+Louis" alt="Typing SVG" /></a>
 
-I am an aspiring full-stack developer currently in school studying computer science. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate. 
-
+<p align="center">
+I am an aspiring full-stack developer currently in school studying computer science. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate.
+</p>
 
 <!--
 **vanessanyc/VanessaNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
