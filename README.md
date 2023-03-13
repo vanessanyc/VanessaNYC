@@ -7,7 +7,7 @@
 I am an aspiring full-stack software developer currently studying computer science at Hunter College. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate.
 
 </p>
-
+``LANGUAGES AND TOOLS:``
 
 <!--
 **vanessanyc/VanessaNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
