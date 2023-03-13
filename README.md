@@ -28,7 +28,7 @@ I am an aspiring full-stack software developer currently studying computer scien
 
 <p></p>
 
-``elm.vanessa.louis@gmail.com``
+<elm.vanessa.louis@gmail.com>
 
 <!--
 **vanessanyc/VanessaNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
