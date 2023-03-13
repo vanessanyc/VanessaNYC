@@ -24,7 +24,7 @@ I am an aspiring full-stack software developer currently studying computer scien
 
 <br></br>
 
-``CONTACT ME:``
+``CONTACT:``
 
 <p></p>
 
