@@ -22,6 +22,8 @@ I am an aspiring full-stack software developer currently studying computer scien
 
 <img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" style="padding-right:10px;"/>
 
+<img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;"/>
+
 <br></br>
 
 ``CONTACT:``
