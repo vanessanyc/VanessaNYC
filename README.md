@@ -4,7 +4,9 @@
 
 <p align="center">
 I am an aspiring full-stack developer currently in school studying computer science. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate.
+
 </p>
+
 
 <!--
 **vanessanyc/VanessaNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
