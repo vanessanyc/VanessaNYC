@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98ABF7&center=true&vCenter=true&width=800&lines=Hello+World!;I'm+Vanessa+Louis" alt="Typing SVG" /></a>
 
 <p align="center">
-I am an aspiring full-stack software developer currently in school studying computer science. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate.
+I am an aspiring full-stack software developer currently studying computer science at Hunter College. I'm interested in the intersection of AI, machine learning, and web development. I'm of course always learning and always looking to collaborate.
 
 </p>
 
