@@ -4,7 +4,7 @@
 
 ``ABOUT ME:``
 <p align="center">
-I am an aspiring full-stack software developer currently studying computer science at Hunter College. I'm interested in the intersection of AI, machine learning, and web development. I'm always learning and looking to collaborate.
+I am an aspiring full-stack software developer currently studying computer science at Hunter College. I'm always learning and looking to collaborate.
 
 </p>
 
