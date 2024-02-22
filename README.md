@@ -18,9 +18,7 @@ I am a data engineer currently studying computer science at Hunter College.
 
 <img align="left" alt="NodeJS" width="30px" src="https://camo.githubusercontent.com/900baefb89e187c8b32cdbb3b440d1502fe8f30a1a335cc5dc5868af0142f8b1/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667" style="padding-right:10px;"/>
 
-<img align="left" alt="Python" width="30px" src="https://camo.githubusercontent.com/43a3630f8c7313521f8202ad5de3905565d7e3b42708ca7854fec4c5d92817b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d706c61696e2e737667" style="padding-right:10px;"/>
-
-<img align="left" alt="Github" width="30px" src="https://camo.githubusercontent.com/6c8e86dfc77346d4388b8e064db73017a210f18e2cd18e74779ea34f2d630f4a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769746875622f6769746875622d6f726967696e616c2e737667" style="padding-right:10px;"/>
+<img align="left" alt="Python" width="70px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" style="padding-right:10px;"/>
 
 <img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" style="padding-right:10px;"/>
 
