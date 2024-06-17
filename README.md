@@ -10,10 +10,6 @@ I am a data engineer currently studying computer science at Hunter College.
 
 ``LANGUAGES AND TOOLS:``
 
-<img align="left" alt="Apache Spark" width="70px" src="https://miro.medium.com/v2/resize:fit:602/1*qRqdsv0-i9Jj1_BcYIbjLQ.png" style="padding-right:10px;"/>
-
-<img align="left" alt="Apache Kafka" width="70px" src="https://dimosr.github.io/assets/img/posts/kafka_logo.png" style="padding-right:10px;"/>
-
 <img align="left" alt="Python" width="30px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" style="padding-right:10px;"/>
 
 <img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/612px-ISO_C%2B%2B_Logo.svg.png?20170928190710"/>
