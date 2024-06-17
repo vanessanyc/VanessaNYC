@@ -23,6 +23,7 @@ I'm a recent Hunter College graduate with a degree in computer science pursuing 
 <p></p>
 
 Email: <elm.vanessa.louis@gmail.com>
+<p></p>
 LinkedIn: <https://www.linkedin.com/in/-vanessa-louis/>
 
 <!--
