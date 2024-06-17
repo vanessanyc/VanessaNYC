@@ -22,7 +22,8 @@ I'm a recent Hunter College graduate with a degree in computer science pursuing 
 
 <p></p>
 
-<elm.vanessa.louis@gmail.com>
+Email: <elm.vanessa.louis@gmail.com>
+LinkedIn: <https://www.linkedin.com/in/-vanessa-louis/>
 
 <!--
 **vanessanyc/VanessaNYC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
