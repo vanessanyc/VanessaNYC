@@ -4,7 +4,7 @@
 
 ``ABOUT ME:``
 <p align="center">
-I am a data engineer currently studying computer science at Hunter College. 
+I'm a recent Hunter College graduate with a degree in computer science pursuing a career in data science. I absolutely love data-centered projects/research and I'm always looking to collaborate! 
 
 </p>
 
